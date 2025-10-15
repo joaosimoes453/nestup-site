@@ -67,3 +67,15 @@ hr.div{border:0;height:1px;background:linear-gradient(90deg,transparent,rgba(0,0
   object-fit: cover;
   object-position: center;
 }
+
+.price {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: #1F4E79;
+  margin-bottom: 8px;
+}
+
+.card.highlight {
+  border: 2px solid #0BA57F;
+  background-color: rgba(11,165,127,0.05);
+}
